@@ -35,7 +35,7 @@ After programmed, the pinmap is:
 The pre-converted firmware is v2.36, if it is outdated, you can find latest 'cklink-lite.hex' firmware and convert it yourself as:
 
 ```
-./cklink-lite-fw-convertor <hex file>
+python cklink-lite-fw-convertor.py <hex file>
 ```
 
 
